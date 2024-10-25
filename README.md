@@ -37,7 +37,7 @@ The ecommerce.sql script contains various SQL queries to analyze and manipulate 
 
 Database Optimization:
 
-*  appropriate indexes to improve query performance.
+* Appropriate indexes to improve query performance.
 * Consider normalization to reduce data redundancy and improve data integrity.
 
 Additional Considerations
